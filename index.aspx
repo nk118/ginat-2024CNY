@@ -533,7 +533,8 @@
                 </h3>
                 <a href="https://www.gianttour.com.tw/ClassifyProduct.aspx?tripno=T20230914000007"
                     class="u-border-2 u-border-grey-75 u-btn u-btn-round u-button-style u-custom-color-2 u-hover-custom-color-1 u-radius-14 u-btn-1"
-                    target="_blank"><span class="u-icon u-icon-1">
+                    target="_blank"
+                    style="margin-top: 0;"><span class="u-icon u-icon-1">
                         <svg class="u-svg-content" viewBox="0 0 41.999 41.999" x="0px"
                             y="0px" style="width: 1em; height: 1em;">
                             <path d="M36.068,20.176l-29-20C6.761-0.035,6.363-0.057,6.035,0.114C5.706,0.287,5.5,0.627,5.5,0.999v40
@@ -544,7 +545,7 @@
                 </a>
             </div>
         </section>
-        <section class="u-clearfix u-section-7" id="sec-c305">
+        <section class="u-clearfix u-section-7" id="sec-c305" style="margin-top: 30px;">
             <div class="u-clearfix u-sheet u-sheet-1">
                 <div class="u-border-1 u-border-custom-color-1 u-expanded-width u-line u-line-horizontal u-line-1"></div>
                 <img class="u-image u-image-default u-preserve-proportions u-image-1" src="images/icon.png" alt=""
@@ -554,7 +555,7 @@
                 <div class="u-border-1 u-border-white u-line u-line-horizontal u-line-2"></div>
                 <h5 class="u-align-center-lg u-align-center-md u-align-center-sm u-align-center-xs u-text u-text-white u-text-3">4.10</h5>
                 <h3 class="u-align-left u-custom-font u-text u-text-custom-color-1 u-text-4">冬季德瑞小王子 少女峰 新天鵝堡10日</h3>
-                <h3 class="u-align-right u-custom-font u-text u-text-custom-color-2 u-text-default-xl u-text-5">
+                <h3 class="u-align-right u-custom-font u-text u-text-custom-color-2 u-text-default-xl u-text-5" style="margin-top: 165px;">
                     <span class="u-text-custom-color-1" style="font-size: 2.5rem;">139</span>
                     <span class="u-text-custom-color-1" style="font-size: 2.5rem;">,900</span>
                     <span style="font-size: 1.125rem;">起含稅</span>
