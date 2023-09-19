@@ -51,7 +51,7 @@
     <form id="form1" runat="server">
         <header
             class=" u-border-no-bottom u-border-no-left u-border-no-right u-border-no-top u-clearfix u-header u-section-row-container u-valign-middle"
-            id="sec-a351" style="">
+            id="sec-a351" style="height: auto; align-items: normal;">
             <div class="u-section-rows">
                 <div class="u-section-row u-sticky u-sticky-d241 u-section-row-1" id="sec-b2c1">
 
@@ -92,7 +92,7 @@
 
 
                     <div class="u-clearfix u-sheet u-valign-top-xl u-sheet-2">
-                        <nav class="u-align-center u-menu u-menu-one-level u-offcanvas u-menu-1">
+                        <nav class="u-align-center u-menu u-menu-one-level u-offcanvas u-menu-1" style="top: 0px;">
                             <div class="menu-collapse u-custom-font" style="font-size: 1.25rem; font-family: Noto Sans TC; letter-spacing: 5px; text-transform: uppercase; font-weight: 500;">
                                 <a class="u-button-style u-custom-active-border-color u-custom-active-color u-custom-border u-custom-border-color u-custom-borders u-custom-color u-custom-color-14 u-custom-hover-border-color u-custom-hover-color u-custom-left-right-menu-spacing u-custom-text-active-color u-custom-text-color u-custom-text-hover-color u-custom-top-bottom-menu-spacing u-nav-link u-text-black"
                                     href="#" style="font-size: calc(1em + 14px); background-image: none; padding: 7px 16px;">
@@ -113,7 +113,7 @@
                                 <ul class="u-custom-font u-nav u-spacing-2 u-unstyled u-nav-1">
                                     <li class="u-nav-item"><a
                                         class="u-border-2 u-border-active-palette-1-base u-border-custom-color-4 u-border-hover-palette-1-base u-border-no-bottom u-border-no-left u-border-no-top u-button-style u-custom-color-7 u-hover-custom-color-4 u-nav-link u-text-active-custom-color-4 u-text-grey-90 u-text-hover-white"
-                                        href="Europe.html#8" style="padding: 20px 60px;">歐洲</a>
+                                        href="Europe.html#1" style="padding: 20px 60px;">歐洲</a>
                                     </li>
                                     <li class="u-nav-item"><a
                                         class="u-border-2 u-border-active-palette-1-base u-border-custom-color-4 u-border-hover-palette-1-base u-border-no-bottom u-border-no-left u-border-no-top u-button-style u-custom-color-7 u-hover-custom-color-4 u-nav-link u-text-active-custom-color-4 u-text-grey-90 u-text-hover-white"
