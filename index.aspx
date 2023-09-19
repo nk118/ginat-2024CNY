@@ -1,6 +1,6 @@
 ﻿<%@ page language="VB" autoeventwireup="false" %>
 
-<%@ register src="/webcontrol/down2019.ascx" tagname="Footer" tagprefix="uc2" %>
+<%@ Register Src="~/webcontrol/down2019.ascx" TagName="down" TagPrefix="down" %>
 
 <html xmlns="http://www.w3.org/1999/xhtml" style="font-size: 16px;" lang="zh-Hant">
 <head runat="server">
@@ -1302,7 +1302,7 @@
             }
         </style>
         <!--footer-->
-        <uc1:footer id="footer" runat="server" />
+        <down:down id="down" runat="server"></down:down>
     </form>
 </body>
 </html>
