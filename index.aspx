@@ -109,7 +109,7 @@
                                     </svg>
                                 </a>
                             </div>
-                            <div class="u-custom-menu u-nav-container">
+                            <div class="u-custom-menu u-nav-container" style="background-color: #CCA668;">
                                 <ul class="u-custom-font u-nav u-spacing-2 u-unstyled u-nav-1">
                                     <li class="u-nav-item"><a
                                         class="u-border-2 u-border-active-palette-1-base u-border-custom-color-4 u-border-hover-palette-1-base u-border-no-bottom u-border-no-left u-border-no-top u-button-style u-custom-color-7 u-hover-custom-color-4 u-nav-link u-text-active-custom-color-4 u-text-grey-90 u-text-hover-white"
@@ -516,11 +516,11 @@
                 </div>
                 <h3 class="u-custom-font u-text u-text-custom-color-1 u-text-default-lg u-text-default-xl u-text-3">金龍迎春 輕遊法比荷8日
                 </h3>
-                <h3 class="u-custom-font u-text u-text-custom-color-2 u-text-default-xl u-text-4">
+                <h3 class="u-custom-font u-text u-text-custom-color-2 u-text-default-xl u-text-4" style="margin-top: 325px;">
                     <span class="u-text-custom-color-1" style="font-size: 2.5rem;">95,900</span>
                     <span style="font-size: 1.125rem;">起含稅</span>
                 </h3>
-                <h3 class="u-custom-font u-text u-text-grey-75 u-text-5">▸國泰航空阿姆斯特丹/巴黎雙點進出
+                <h3 class="u-custom-font u-text u-text-grey-75 u-text-5" style="margin-top: -320px;">▸國泰航空阿姆斯特丹/巴黎雙點進出
         <br>
                     ▸三遊船－塞納河遊船、羊角村遊船、阿姆斯特丹玻璃船<br>
                     ▸世界遺產－布魯日古城．塞納河沿岸．布魯塞爾黃金廣場
