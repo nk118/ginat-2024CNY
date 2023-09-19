@@ -10,6 +10,7 @@
     <meta name="keywords" content="">
     <meta name="company" content="巨大旅遊">
     <title>金龍迎春．2024新年行程推薦｜巨大旅遊 G.Tour</title>
+    <link rel="stylesheet" href="/css/layout.css">
     <link rel="stylesheet" href="./css/cny.css" media="screen">
     <link rel="stylesheet" href="./css/index.css" media="screen">
     <script class="u-script" type="text/javascript" src="./js/jquery.js" defer=""></script>
