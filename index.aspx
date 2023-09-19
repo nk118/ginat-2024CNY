@@ -143,7 +143,7 @@
                                         <div class="u-menu-close"></div>
                                         <ul
                                             class="u-align-center u-custom-font u-nav u-popupmenu-items u-spacing-15 u-text-hover-palette-2-light-2 u-unstyled u-nav-2">
-                                            <li class="u-nav-item"><a class="u-button-style u-nav-link" href="Europe.html#8">歐洲</a>
+                                            <li class="u-nav-item"><a class="u-button-style u-nav-link" href="Europe.html#1">歐洲</a>
                                             </li>
                                             <li class="u-nav-item"><a class="u-button-style u-nav-link" href="Europe.html#2">中東</a>
                                             </li>
