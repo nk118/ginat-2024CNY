@@ -1,4 +1,4 @@
-﻿<%@ page language="VB" autoeventwireup="false" %>
+﻿<%@ Page Language="C#" %>
 
 <%@ Register Src="~/webcontrol/down2019.ascx" TagName="down" TagPrefix="down" %>
 
@@ -11,7 +11,7 @@
     }
 </script>
 
-<html xmlns="http://www.w3.org/1999/xhtml" style="font-size: 16px;" lang="zh-Hant">
+<html style="font-size: 16px;" lang="en">
 <head runat="server">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="utf-8">
