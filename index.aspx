@@ -30,7 +30,7 @@
     <meta name="facebook-domain-verification" content="be42iwbmv3c3womxyn5wzulcrpxape">
 
     <!-- Google Tag -->
-    <%-- <meta property="og:title" content="金龍迎春．2024新年行程推薦｜巨大旅遊 G.Tour">
+    <meta property="og:title" content="金龍迎春．2024新年行程推薦｜巨大旅遊 G.Tour">
     <meta property="og:description" content="2024新年7連休，早鳥最高折兩萬！想玩歐美、紐澳、中東通通有，遠征南極、主題遊輪、極光之旅圓夢趁這檔！">
     <meta property="og:site_name" content="巨大旅遊 G.Tour">
     <meta property="og:url" content="">
@@ -39,7 +39,7 @@
     <meta property="og:image:alt" content="巨大旅遊2024新年連休行程">
     <meta property="og:image:type" content="image/jpg">
     <meta property="og:image:width" content="1200">
-    <meta property="og:image:height" content="630"> --%>
+    <meta property="og:image:height" content="630">
 
 
 
