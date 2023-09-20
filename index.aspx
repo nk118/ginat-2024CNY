@@ -118,7 +118,7 @@
                                 </svg>
                             </a>
                         </div>
-                        <div class="u-custom-menu u-nav-container" style="background-color: #CCA668;">
+                        <div class="u-custom-menu u-nav-container">
                             <ul class="u-custom-font u-nav u-spacing-2 u-unstyled u-nav-1">
                                 <li class="u-nav-item"><a
                                     class="u-border-2 u-border-active-palette-1-base u-border-custom-color-4 u-border-hover-palette-1-base u-border-no-bottom u-border-no-left u-border-no-top u-button-style u-custom-color-7 u-hover-custom-color-4 u-nav-link u-text-active-custom-color-4 u-text-grey-90 u-text-hover-white"
@@ -174,6 +174,44 @@
             </div>
         </div>
     </header>
+    <style type="text/css">
+        .u-header .u-image-2 {
+            margin-top: 62px;
+        }
+
+        .u-custom-menu.u-nav-container {
+            position: fixed;
+            top: 75px;
+            left: 50%;
+            transform: translate(-50%, 0%);
+            width: 100%;
+            background-color: #CCA668;
+        }
+
+        .u-enable-responsive .menu-collapse {
+            position: fixed;
+            top: 12px;
+            left: 50%;
+        }
+
+        .u-custom-font.u-nav.u-spacing-2.u-unstyled.u-nav-1 {
+            display: flex;
+            justify-content: center;
+        }
+
+        @media (max-width: 991px) {
+            .u-header .u-image-2 {
+                margin-top: 0px;
+            }
+
+            .u-custom-menu.u-nav-container {
+                top: 25px;
+                background-color: transparent;
+                z-index: 9999;
+            }
+        }
+    </style>
+
     <section class="u-clearfix u-image u-section-1" id="sec-e9ce" data-image-width="101" data-image-height="101">
         <div class="u-clearfix u-sheet u-sheet-1">
             <h3 class="u-align-center u-custom-font u-text u-text-custom-color-1 u-text-1">歐洲 Europe&nbsp;<br>
@@ -605,7 +643,7 @@
         <style type="text/css">
             @media (max-width: 575px) {
                 .u-align-right.u-custom-font.u-text.u-text-custom-color-2.u-text-default-xl.u-text-5.adjust-2 {
-                    style="margin-top: 165px;"
+                    margin-top: 165px;
                 }
             }
         </style>
