@@ -601,11 +601,11 @@
         <style type="text/css">
             @media (max-width: 575px) {
                 .u-custom-font.u-text.u-text-custom-color-2.u-text-default-xl.u-text-4.adjust-1 {
-                    margin-top: 325px;
+                    margin-top: 340px;
                 }
 
                 .u-custom-font.u-text.u-text-grey-75.u-text-5.adjust-1 {
-                    margin-top: -320px;
+                    margin-top: -340px;
                 }
             }
         </style>
@@ -625,7 +625,7 @@
                 <span class="u-text-custom-color-1" style="font-size: 2.5rem;">,900</span>
                 <span style="font-size: 1.125rem;">起含稅</span>
             </h3>
-            <h3 class="u-align-left u-custom-font u-text u-text-grey-75 u-text-6">▸享早鳥優惠再贈小費<br>
+            <h3 class="u-align-left u-custom-font u-text u-text-grey-75 u-text-6 adjust-2">▸享早鳥優惠再贈小費<br>
                 ▸少女峰艾格快線纜車＋齒軌登山列車．冰河景觀餐廳．史芬克斯觀景台<br>
                 ▸石丹峰體驗世界唯一敞篷纜車<br>
                 ▸主題雙火車－盧森/茵特拉根快線(黃金列車)．ICE德國快速火車<br>
@@ -649,7 +649,10 @@
         <style type="text/css">
             @media (max-width: 575px) {
                 .u-align-right.u-custom-font.u-text.u-text-custom-color-2.u-text-default-xl.u-text-5.adjust-2 {
-                    margin-top: 165px;
+                    margin-top: 300px;
+                }
+                .u-align-left.u-custom-font.u-text.u-text-grey-75.u-text-6.adjust-2 {
+                    margin-top: -340px;
                 }
             }
         </style>
