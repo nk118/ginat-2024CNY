@@ -57,7 +57,7 @@
     <meta data-intl-tel-input-cdn-path="intlTelInput/">
 </head>
 <body data-home-page="Europe.html" data-home-page-title="Europe" class="u-body u-overlap u-xl-mode" data-lang="en">
-    <form id="form1" runat="server">
+
         <header
             class=" u-border-no-bottom u-border-no-left u-border-no-right u-border-no-top u-clearfix u-header u-section-row-container u-valign-middle"
             id="sec-a351" style="height: auto; align-items: normal;">
@@ -1332,6 +1332,6 @@
         </style>
         <!--footer-->
         <down:down id="down" runat="server"></down:down>
-    </form>
+
 </body>
 </html>
