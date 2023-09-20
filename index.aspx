@@ -198,6 +198,12 @@
             display: flex;
             justify-content: center;
         }
+        .u-align-center.u-menu.u-menu-one-level.u-offcanvas.u-menu-1 {
+            background-color: transparent;
+        }
+        #sec-75e9 {
+            height: 0px;
+        }
 
         @media (max-width: 991px) {
             .u-header .u-image-2 {
