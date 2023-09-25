@@ -15,8 +15,8 @@
 <head runat="server">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="utf-8">
-    <%-- <meta name="description" content="2024新年7連休，早鳥最高折兩萬！想玩歐美、紐澳、中東通通有，遠征南極、主題遊輪、極光之旅圓夢趁這檔！"> --%>
-    <meta name="keywords" content="">
+    <meta name="description" content="2024新年七連休，早鳥最高折一萬再贈全程服務費！歐美紐澳、中東非洲通通有，還有遠征南極、主題遊輪、極光之旅...壯遊圓夢趁這檔！">
+    <meta name="keywords" content="春節出遊,春節旅遊,春節旅遊團,2024春節旅遊,2024春節國外旅遊,年假旅遊,春節旅行團,春節國外旅遊,春節出國,2024春節出國,2024春節旅行團,過年出國,2024過年旅行團,2024過年旅遊,2024過年出國,過年出國推薦,過年出國旅遊,過年國外旅遊">
     <meta name="company" content="巨大旅遊">
     <title>金龍迎春．2024新年行程推薦｜巨大旅遊 G.Tour</title>
     <link rel="stylesheet" href="/css/layout.css">
@@ -31,11 +31,11 @@
 
     <!-- Google Tag -->
     <meta property="og:title" content="金龍迎春．2024新年行程推薦｜巨大旅遊 G.Tour">
-    <meta property="og:description" content="2024新年7連休，早鳥最高折兩萬！想玩歐美、紐澳、中東通通有，遠征南極、主題遊輪、極光之旅圓夢趁這檔！">
+    <meta property="og:description" content="2024新年七連休，早鳥最高折一萬再贈全程服務費！歐美紐澳、中東非洲通通有，還有遠征南極、主題遊輪、極光之旅...壯遊圓夢趁這檔！">
     <meta property="og:site_name" content="巨大旅遊 G.Tour">
-    <meta property="og:url" content="">
+    <meta property="og:url" content="https://www.gianttour.com.tw/2024events/2024CNY">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="">
+    <meta property="og:image" content="https://www.gianttour.com.tw/Zupload/001327/2024CNY.jpg">
     <meta property="og:image:alt" content="巨大旅遊2024新年連休行程">
     <meta property="og:image:type" content="image/jpg">
     <meta property="og:image:width" content="1200">
