@@ -1751,10 +1751,22 @@
   margin: -56px 714px 0 131px;
 }
 
+.u-section-11-1 .u-text-3 {
+  font-family: "Noto Sans TC";
+  font-size: 1.5rem;
+  margin: -56px 0px 0 131px;
+}
+
 .u-section-11 .u-text-4 {
   font-family: "Noto Sans TC";
   font-size: 1.875rem;
   margin: 6px 714px 0 131px;
+}
+
+.u-section-11-1 .u-text-4 {
+  font-family: "Noto Sans TC";
+  font-size: 1.875rem;
+  margin: 6px 0px 0 131px;
 }
 
 .u-section-11 .u-text-5 {
@@ -1960,8 +1972,18 @@
     margin-left: 0;
   }
 
+  .u-section-11-1 .u-text-5 {
+    margin-top: 204px;
+    margin-left: 0;
+  }
+
   .u-section-11 .u-text-6 {
     margin-top: -306px;
+    margin-left: 0;
+  }
+
+  .u-section-11-1 .u-text-6 {
+    margin-top: -240px;
     margin-left: 0;
   }
 
@@ -4632,7 +4654,7 @@
 .u-section-27 .u-text-4 {
   font-family: "Noto Sans TC";
   font-size: 1.5rem;
-  margin: -76px 644px 0 131px;
+  margin: -76px 630px 0 131px;
 }
 
 .u-section-27 .u-text-5 {
