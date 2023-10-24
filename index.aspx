@@ -680,7 +680,7 @@ c0.271-0.187,0.432-0.494,0.432-0.823S36.338,20.363,36.068,20.176z">
       <h5 class="u-text u-text-default u-text-white u-text-2">2/8</h5>
       <h3
         class="u-align-left u-custom-font u-text u-text-custom-color-1 u-text-default-lg u-text-default-md u-text-default-sm u-text-default-xl u-text-3">
-        贈WiFi兩人一機</h3>
+        早鳥贈小費</h3>
       <h3 class="u-align-left u-custom-font u-text u-text-custom-color-1 u-text-4">金龍迎春 德瑞雙峰10日</h3>
       <h3 class="u-align-left u-custom-font u-text u-text-grey-75 u-text-5">▸國泰航空法蘭克福進出<br>
         ▸經典雙峰－少女峰（艾格快線纜車＋登山齒軌列車）．彼拉圖斯山（纜車或火車上山）<br>
