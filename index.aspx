@@ -776,23 +776,22 @@ c0.271-0.187,0.432-0.494,0.432-0.823S36.338,20.363,36.068,20.176z">
         data-image-width="156" data-image-height="192">
       <h5 class="u-align-center-md u-align-center-sm u-align-center-xs u-text u-text-white u-text-1">出發日</h5>
       <h5 class="u-align-center-sm u-align-center-xs u-text u-text-white u-text-2">2/​​​​6</h5>
-      <h3 class="u-align-left u-custom-font u-text u-text-custom-color-5 u-text-3">精華快覽！兩段內陸航班</h3>
-      <h3 class="u-custom-font u-text u-text-custom-color-5 u-text-4">迎春龍來土耳其10日</h3>
+      <h3 class="u-align-left u-custom-font u-text u-text-custom-color-5 u-text-3">秒殺價再贈熱氣球</h3>
+      <h3 class="u-custom-font u-text u-text-custom-color-5 u-text-4">新春好康土耳其10日</h3>
       <h3 class="u-custom-font u-text u-text-custom-color-5 u-text-default u-text-5">
-        <span style="font-size: 2.5rem;">74,800</span>
+        <span style="font-size: 2.5rem;">59,800</span>
         <span style="font-size: 1.125rem;">起含稅</span>
       </h3>
-      <h3 class="u-align-left u-custom-font u-text u-text-grey-75 u-text-6">▸​快遊土國－伊斯坦堡/開塞利．伊茲密爾/伊斯坦堡二段內陸航班
+      <h3 class="u-align-left u-custom-font u-text u-text-grey-75 u-text-6">▸三大特色體驗－卡帕多奇亞熱氣球之旅．博斯普魯斯海峽遊船．安卡拉空中纜車瞰土國首都全景
         <br>
-        ▸經典必遊－卡帕多奇亞．伊斯坦堡歷史城區/托布卡匹＆多瑪巴切雙皇宮/加拉達塔．孔亞梅芙拉納​▸博物館．棉堡及艾菲所斯等世界遺產巡禮
+        ▸在地人文漫遊－孔亞梅芙拉納博物館探訪旋轉舞發源地．席林潔體驗鄂圖曼小鎮風情．伊斯坦堡有頂大市集買在地好物
         <br>
-        ▸特色體驗－卡帕多奇亞土耳其之夜＆水煙體驗．船遊博斯普魯斯海峽
+        ▸世界遺產巡禮－卡帕多奇亞地下城+露天博物館+奇石區．棉堡．艾菲所斯．希拉波里斯．特洛伊
         <br>
-        ▸旅宿安排－全程入住當地五星飯店．伊斯坦堡住宿3晚
-        <br>
-        ▸買遍在地－伊斯坦堡塔克辛廣場．有頂大市集
+        ▸飯店特別安排－卡帕多奇亞洞穴飯店兩晚及當地五星飯店
+
       </h3>
-      <a href="https://www.gianttour.com.tw/TripIntroduction_new.aspx?TripNo=T20230828000001&amp;Date=2024/02/06&amp;type=新加坡航空公司&amp;numb=GILSQ1040206TS"
+      <a href="https://www.gianttour.com.tw/TripIntroduction.aspx?TripNo=T20231127000001&Date=2024/02/06&type=新加坡航空公司&numb=GILSQ1040206TSA"
         class="u-border-2 u-border-grey-75 u-btn u-btn-round u-button-style u-custom-color-13 u-hover-custom-color-5 u-radius-14 u-btn-1"
         target="_blank"><span class="u-icon u-icon-1">
           <svg class="u-svg-content" viewBox="0 0 41.999 41.999" x="0px" y="0px" style="width: 1em; height: 1em;">
