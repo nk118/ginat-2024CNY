@@ -568,7 +568,7 @@ c0.271-0.187,0.432-0.494,0.432-0.823S36.338,20.363,36.068,20.176z">
         ▸精品購物－山谷折扣村．老佛爺百貨<br>
         ▸巴黎連三晚升等環城四星飯店
       </h3>
-      <a href="https://www.gianttour.com.tw/TripIntroduction_new.aspx?TripNo=T20230925000001&Date=2024/02/08&type=國泰航空公司&numb=GIWCX1040208NF"
+      <a href="https://www.gianttour.com.tw/TripIntroduction.aspx?TripNo=T20230925000001&Date=2024/02/08&type=%E5%9C%8B%E6%B3%B0%E8%88%AA%E7%A9%BA&numb=GIWCX1040208AMS"
         class="u-border-2 u-border-grey-75 u-btn u-btn-round u-button-style u-custom-color-2 u-hover-custom-color-1 u-radius-14 u-btn-1"
         target="_blank" style="margin-top: 0;"><span class="u-icon u-icon-1">
           <svg class="u-svg-content" viewBox="0 0 41.999 41.999" x="0px" y="0px" style="width: 1em; height: 1em;">
