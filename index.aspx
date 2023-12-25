@@ -724,6 +724,49 @@ c0.271-0.187,0.432-0.494,0.432-0.823S36.338,20.363,36.068,20.176z">
       }
     </style>
   </section>
+  <section class="u-clearfix u-section-7 u-section-7-1" id="sec-c305-2" style="margin-top: 30px;">
+    <div class="u-clearfix u-sheet u-sheet-1">
+      <div class="u-border-1 u-border-custom-color-1 u-expanded-width u-line u-line-horizontal u-line-1"></div>
+      <img class="u-image u-image-default u-preserve-proportions u-image-1" src="./金龍迎春．2024新年行程推薦｜巨大旅遊 G.Tour_files/icon.png" alt="" data-image-width="156" data-image-height="192">
+      <h5 class="u-text u-text-default u-text-white u-text-1">出發日</h5>
+      <h5 class="u-text u-text-default u-text-white u-text-2">2月</h5>
+      <div class="u-border-1 u-border-white u-line u-line-horizontal u-line-2"></div>
+      <h5 class="u-align-center-lg u-align-center-md u-align-center-sm u-align-center-xs u-text u-text-white u-text-3">
+        3</h5>
+      <h3 class="u-align-left u-custom-font u-text u-text-custom-color-1 u-text-4">魔幻北歐 極光之戀10日</h3>
+      <h3 class="u-align-right u-custom-font u-text u-text-custom-color-2 u-text-default-xl u-text-5 adjust-2">
+        <span class="u-text-custom-color-1" style="font-size: 2.5rem;">159</span>
+        <span class="u-text-custom-color-1" style="font-size: 2.5rem;">,900</span>
+        <span style="font-size: 1.125rem;">起含稅</span>
+      </h3>
+      <h3 class="u-align-left u-custom-font u-text u-text-grey-75 u-text-6 adjust-2">▸坐上馴鹿雪橇狩獵幸福極光<br>
+        ▸搭乘破冰船體驗乘風碰冰的震撼<br>
+        ▸現捕現吃帝王蟹大餐<br>
+        ▸聖誕老人村之旅(贈北極圈證書)<br>
+        <br>
+        
+      </h3>
+      <a href="https://www.gianttour.com.tw/ClassifyProduct.aspx?tripno=T20231222000001" class="u-border-2 u-border-grey-75 u-btn u-btn-round u-button-style u-custom-color-2 u-hover-custom-color-1 u-radius-14 u-btn-1" target="_blank"><span class="u-icon u-icon-1">
+          <svg class="u-svg-content" viewBox="0 0 41.999 41.999" x="0px" y="0px" style="width: 1em; height: 1em;">
+            <path d="M36.068,20.176l-29-20C6.761-0.035,6.363-0.057,6.035,0.114C5.706,0.287,5.5,0.627,5.5,0.999v40
+c0,0.372,0.206,0.713,0.535,0.886c0.146,0.076,0.306,0.114,0.465,0.114c0.199,0,0.397-0.06,0.568-0.177l29-20
+c0.271-0.187,0.432-0.494,0.432-0.823S36.338,20.363,36.068,20.176z">
+            </path>
+          </svg></span>&nbsp;go
+      </a>
+    </div>
+    <style type="text/css">
+      @media (max-width: 575px) {
+        .u-section-7-1 .u-align-right.u-custom-font.u-text.u-text-custom-color-2.u-text-default-xl.u-text-5.adjust-2 {
+          margin-top: 186px;
+        }
+
+        .u-section-7-1 .u-align-left.u-custom-font.u-text.u-text-grey-75.u-text-6.adjust-2 {
+          margin-top: -211px;
+        }
+      }
+    </style>
+  </section>
   <section class="u-align-center u-clearfix u-image u-section-9" id="2" data-image-width="150" data-image-height="150">
     <div class="u-clearfix u-sheet u-valign-middle-lg u-valign-middle-md u-valign-middle-xl u-sheet-1">
       <h3 class="u-align-center u-custom-font u-text u-text-custom-color-5 u-text-default u-text-1">中東 middle East</h3>
